@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mahdiasadi1
 - 👀 I’m interested in php,laravel,css,javascript
-- 🌱 I’m currently learning python
+
 <!---
 
 - 💞️ I’m looking to collaborate on ...
